@@ -16,6 +16,7 @@ I'm **Welldan Yogia Hwan Egiyaksa**,
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/welldanyogia) -->
 
 ### Languages and Tools
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript)
 ![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=orange)
