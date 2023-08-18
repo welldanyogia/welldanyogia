@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 ### Connect with me:
 [![Mail](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail)](mailto:welldanyogia01@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/welldanyogia/)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/welldanyogia) -->
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/welldanyogia/)
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/welldanyogia) -->
 
 ### Languages and Tools
 ![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android)
