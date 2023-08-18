@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m a college student at [Muhammadiyah University of Malang](https://umm.ac.id)
-- 🌱 I’m currently learning mostly about Javascript,Kotlin, Android Development, and Jetpack Compose
+- 🌱 I’m currently learning mostly about Javascript, Kotlin, Android Development, and Jetpack Compose
 - 🥅 2023 goals: contribute to open source projects
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love cat 🐱
