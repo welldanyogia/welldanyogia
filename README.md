@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-Im **Welldan Yogia Hwan Egiyaksa**,
-
-Here are some ideas to get you started:
+I'm **Welldan Yogia Hwan Egiyaksa**,
 
 - 🔭 I’m a college student at [Muhammadiyah University of Malang](https://umm.ac.id)
 - 🌱 I’m currently learning mostly about Javascript, Kotlin, Android Development, and Jetpack Compose
