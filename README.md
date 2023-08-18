@@ -25,11 +25,8 @@ Here are some ideas to get you started:
 
 ### Stats
 <a href="https://github.com/welldanyogia">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=welldanyogia&show_icons=true&theme=dark&line_height=27&count_private=true&include_all_commits=true" alt="wiryadev's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=welldanyogia&show_icons=true&theme=dark&line_height=27&count_private=true&include_all_commits=true" alt="welldanyogia's github stats"/>
 </a>
 <a href="https://github.com/welldanyogia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welldanyogia&theme=dark&langs_count=3" />
 </a>
-
-### Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=welldanyogia&theme=darkhub)
