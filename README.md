@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Welldan Yogia Hwan Egiyaksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im **Welldan Yogia Hwan Egiyaksa**,
 
 Here are some ideas to get you started:
 
