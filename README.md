@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=for-the-badge&logo=android-studio&logoColor=4285F4)
 
 ### Stats
+<p align="left">
 <a href="https://github.com/welldanyogia">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=welldanyogia&show_icons=true&theme=dark&line_height=27&count_private=true&include_all_commits=true" alt="welldanyogia's github stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=welldanyogia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=welldanyogia&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://github.com/welldanyogia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welldanyogia&theme=dark&langs_count=3" />
-</a>
+</p>
